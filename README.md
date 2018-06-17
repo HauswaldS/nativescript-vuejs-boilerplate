@@ -1,6 +1,5 @@
-# Archibald Terrain
+# Nativescript + Vuejs boilerplate
 
-> Archibald Terrain 
 
 ## Usage
 
